@@ -51,4 +51,4 @@ Frontend project to run the application
 -  Then you can run this command to start the frontend
 	**npm start**
 
-- The application would be available at: **http://localhost:3080**
+- The application would be available at: **http://localhost:3000**
