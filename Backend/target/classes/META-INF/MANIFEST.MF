@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: macbookair
+Implementation-Vendor-Id: test.skillwave
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://spring.io/projects/spring-boot/Backend
+Created-By: Maven Integration for Eclipse
+
